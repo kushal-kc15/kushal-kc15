@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kushal-kc15
-- 👀 I’m interested in python, java,c and react.js
+- 👀 I’m interested in python, javascript, c++ and react.js
 - 🌱 I’m currently learning Django, React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kckushal164@gmail.com
